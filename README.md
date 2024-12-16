@@ -1,5 +1,5 @@
 💫 About Me:
-<br>Hi there! 👋 I'm Mahadi Hasan, a passionate coder and lifelong learner exploring the dynamic world of programming and software development.  <br><br>- 🌱 Currently Learning: ASP.net, Deep Learning, Blockchain.  <br>- 💻 Skills:Java, C#, Python, MySQL, HTML, CSS, MERN stack (MongoDB, Express.js, React, Node.js),  Web Development.  <br>- 🎯 Goals: To build impactful software solutions that solve real-world problems and contribute to open-source projects.   <br>- 🤝 Collaborations: Open to working on innovative projects in web development and machine learning.  <br>- 📫 Contact Me: mahadi.bapari193@gmail.com.<br><br>
+<br>Hi there! 👋 I'm Mahadi Hasan, a passionate coder and lifelong learner exploring the dynamic world of programming and software development.  <br><br>- 🌱 Currently Learning: NestJs, ASP.net, Deep Learning, Blockchain.  <br>- 💻 Skills:Java, C#, Python, MySQL, HTML, CSS, MERN stack (MongoDB, Express.js, React, Node.js),  Web Development.  <br>- 🎯 Goals: To build impactful software solutions that solve real-world problems and contribute to open-source projects.   <br>- 🤝 Collaborations: Open to working on innovative projects in web development and machine learning.  <br>- 📫 Contact Me: mahadi.bapari193@gmail.com.<br><br>
 
 
 ## 🌐 Socials:
