@@ -1,5 +1,11 @@
-About Me:
-<br>Hi there!  I'm Mahadi Hasan, a passionate coder and lifelong learner exploring the dynamic world of programming and software development.<br>- Skills:Javascript, Typescript, Dart,  MySQL, PoatgresSQL, MongoDB, NodeJs, ExpressJs, ReactJs, NextJs, ReactNative, Flutter, Docker, Kubernetes<br>- Goals: To build impactful software solutions that solve real-world problems and contribute to open-source projects.   <br>- Collaborations: Open to working on innovative projects in web development and app development.  <br>- Contact Me: mahadi.bapari193@gmail.com.<br><br>
+About Me: <br>Hi there! I'm Mahadi Hasan, a full-stack software developer with a Computer Science background, passionate about building practical software solutions and continuously learning new technologies.<br>
+
+* Skills: Python, JavaScript, TypeScript, ReactJs, NodeJs, ExpressJs, FastAPI, MySQL, MongoDB, REST APIs, Git/GitHub, pandas, pytest<br>
+* Current Focus: Python-based business process automation, data validation, API development, and automated testing through my project AutoFlow.<br>
+* Goals: To build reliable software solutions that solve real-world problems, strengthen my software engineering skills, and contribute to meaningful open-source projects.<br>
+* Collaborations: Open to innovative projects in web development, Python automation, and software engineering.<br>
+* Contact Me: [mahadi.bapari193@gmail.com](mailto:mahadi.bapari193@gmail.com).
+
 
 
 
